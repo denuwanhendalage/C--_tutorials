@@ -1,0 +1,19 @@
+# ninja log v5
+0	409	7281502474100718	CMakeFiles/beginner1.dir/main.cpp.obj	be4308a0ecdf6d6e
+411	542	7281502475394832	beginner1.exe	d4c7b043c74634b4
+3	428	7281509975565285	CMakeFiles/beginner1.dir/main.cpp.obj	be4308a0ecdf6d6e
+429	694	7281509978190500	beginner1.exe	d4c7b043c74634b4
+2	340	7281510155484169	CMakeFiles/beginner1.dir/main.cpp.obj	be4308a0ecdf6d6e
+340	422	7281510156270235	beginner1.exe	d4c7b043c74634b4
+3	351	7281511005649063	CMakeFiles/beginner1.dir/main.cpp.obj	be4308a0ecdf6d6e
+351	432	7281511006411891	beginner1.exe	d4c7b043c74634b4
+3	371	7281511579160221	CMakeFiles/beginner1.dir/main.cpp.obj	be4308a0ecdf6d6e
+374	460	7281511580005486	beginner1.exe	d4c7b043c74634b4
+3	341	7281512355476198	CMakeFiles/beginner1.dir/main.cpp.obj	be4308a0ecdf6d6e
+342	427	7281512356279165	beginner1.exe	d4c7b043c74634b4
+3	347	7281512502744971	CMakeFiles/beginner1.dir/main.cpp.obj	be4308a0ecdf6d6e
+347	432	7281512503563258	beginner1.exe	d4c7b043c74634b4
+3	355	7281514326444429	CMakeFiles/beginner1.dir/main.cpp.obj	be4308a0ecdf6d6e
+356	441	7281514327253999	beginner1.exe	d4c7b043c74634b4
+7	959	7283226130075948	CMakeFiles/beginner1.dir/main.cpp.obj	be4308a0ecdf6d6e
+960	1289	7283226133310711	beginner1.exe	d4c7b043c74634b4
