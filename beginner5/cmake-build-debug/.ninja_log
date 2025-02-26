@@ -1,0 +1,13 @@
+# ninja log v5
+1	369	7281564397455153	CMakeFiles/beginner5.dir/main.cpp.obj	c4584d97d9ce3d9f
+373	455	7281564398291810	beginner5.exe	97aab5b22ba32cfc
+3	359	7281564629747125	CMakeFiles/beginner5.dir/main.cpp.obj	c4584d97d9ce3d9f
+359	446	7281564630577657	beginner5.exe	97aab5b22ba32cfc
+3	408	7281569324996889	CMakeFiles/beginner5.dir/main.cpp.obj	c4584d97d9ce3d9f
+408	496	7281569325846068	beginner5.exe	97aab5b22ba32cfc
+3	403	7281569871347500	CMakeFiles/beginner5.dir/main.cpp.obj	c4584d97d9ce3d9f
+403	491	7281569872184317	beginner5.exe	97aab5b22ba32cfc
+6	437	7281571539588772	CMakeFiles/beginner5.dir/main.cpp.obj	c4584d97d9ce3d9f
+440	536	7281571540526669	beginner5.exe	97aab5b22ba32cfc
+3	404	7281571655704579	CMakeFiles/beginner5.dir/main.cpp.obj	c4584d97d9ce3d9f
+404	491	7281571656550364	beginner5.exe	97aab5b22ba32cfc
