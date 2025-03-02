@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/get_input_space_separated_integer/cmake-build-debug/CMakeFiles/get_input_space_separated_integer.dir
+C:/Users/LENOVO/CLionProjects/get_input_space_separated_integer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/get_input_space_separated_integer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
