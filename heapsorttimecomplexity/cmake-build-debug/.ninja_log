@@ -1,0 +1,11 @@
+# ninja log v5
+0	1009	7317859601523702	CMakeFiles/heapsorttimecomplexity.dir/main.cpp.obj	41625b4795fff0fe
+1013	1153	7317859602904528	heapsorttimecomplexity.exe	94cb547b8e5e48d2
+6	1031	7317861216386311	CMakeFiles/heapsorttimecomplexity.dir/main.cpp.obj	41625b4795fff0fe
+1032	1162	7317861217628902	heapsorttimecomplexity.exe	94cb547b8e5e48d2
+7	967	7317861790783852	CMakeFiles/heapsorttimecomplexity.dir/main.cpp.obj	41625b4795fff0fe
+968	1100	7317861792080130	heapsorttimecomplexity.exe	94cb547b8e5e48d2
+8	1130	7317870723044023	CMakeFiles/heapsorttimecomplexity.dir/main.cpp.obj	41625b4795fff0fe
+1130	1264	7317870724355717	heapsorttimecomplexity.exe	94cb547b8e5e48d2
+5	825	7317877920019977	CMakeFiles/heapsorttimecomplexity.dir/main.cpp.obj	41625b4795fff0fe
+826	975	7317877921448195	heapsorttimecomplexity.exe	94cb547b8e5e48d2
