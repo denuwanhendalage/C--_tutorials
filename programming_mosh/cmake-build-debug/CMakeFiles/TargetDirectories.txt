@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/programming_mosh/cmake-build-debug/CMakeFiles/programming_mosh.dir
+C:/Users/LENOVO/CLionProjects/programming_mosh/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/programming_mosh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
